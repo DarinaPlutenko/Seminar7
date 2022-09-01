@@ -1,0 +1,15 @@
+C:\DarinaGit\MySeminarForC7\task48\bin\Debug\net6.0\task48.exe
+C:\DarinaGit\MySeminarForC7\task48\bin\Debug\net6.0\task48.deps.json
+C:\DarinaGit\MySeminarForC7\task48\bin\Debug\net6.0\task48.runtimeconfig.json
+C:\DarinaGit\MySeminarForC7\task48\bin\Debug\net6.0\task48.dll
+C:\DarinaGit\MySeminarForC7\task48\bin\Debug\net6.0\task48.pdb
+C:\DarinaGit\MySeminarForC7\task48\obj\Debug\net6.0\task48.csproj.AssemblyReference.cache
+C:\DarinaGit\MySeminarForC7\task48\obj\Debug\net6.0\task48.GeneratedMSBuildEditorConfig.editorconfig
+C:\DarinaGit\MySeminarForC7\task48\obj\Debug\net6.0\task48.AssemblyInfoInputs.cache
+C:\DarinaGit\MySeminarForC7\task48\obj\Debug\net6.0\task48.AssemblyInfo.cs
+C:\DarinaGit\MySeminarForC7\task48\obj\Debug\net6.0\task48.csproj.CoreCompileInputs.cache
+C:\DarinaGit\MySeminarForC7\task48\obj\Debug\net6.0\task48.dll
+C:\DarinaGit\MySeminarForC7\task48\obj\Debug\net6.0\refint\task48.dll
+C:\DarinaGit\MySeminarForC7\task48\obj\Debug\net6.0\task48.pdb
+C:\DarinaGit\MySeminarForC7\task48\obj\Debug\net6.0\task48.genruntimeconfig.cache
+C:\DarinaGit\MySeminarForC7\task48\obj\Debug\net6.0\ref\task48.dll
